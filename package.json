@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "i18n-build": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "CHICHMANIAN Christophe",
   "license": "ISC",
   "dependencies": {
+    "commander": "^2.20.0",
+    "is-valid-path": "^0.1.1",
     "line-by-line": "^0.1.6"
   }
 }
