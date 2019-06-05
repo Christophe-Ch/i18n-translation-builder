@@ -1,5 +1,5 @@
 {
-  "name": "translate-parser",
+  "name": "i18n-build",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
